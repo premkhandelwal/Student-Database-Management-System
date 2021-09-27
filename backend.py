@@ -1,2 +1,1 @@
-print("hello")
-print("How are you?")
+# Write your code here
